@@ -2,7 +2,7 @@
 a custom circular progress bar with an image inside that will be visible when progress = 100 
 
 ## Preview
-![Demo image](/Images/demo.jpg)
+![Demo image](/Images/demo.JPG)
 
 ## Usage
 1 Copy these files "circular_progress_bar.xml" and "done.png" to your drawable directory.
