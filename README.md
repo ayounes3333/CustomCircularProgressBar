@@ -38,6 +38,6 @@ a custom circular progress bar with an image inside that will be visible when pr
 ```
 4 When you setup your views remember to asign the inner image like so:
 ```Java
-customProgressBarVar.setImgDone(customViewHolder.imgSign);  
+customProgressBarVar.setImgDone(imageViewVar);  
 ```
 5 Thats it, Enjoy Coding :).
