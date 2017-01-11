@@ -1,8 +1,11 @@
 # CustomCircularProgressBar
 a custom circular progress bar with an image inside that will be visible when progress = 100 
 
+## Preview
+![Demo image](/Images/demo.jpg)
+
 ## Usage
-1 Copy the file "circular_progress_bar.xml" to your drawable directory.
+1 Copy these files "circular_progress_bar.xml" and "done.png" to your drawable directory.
 2 Copy the file "CustomCirculrProgressBar.java" to your java sourse folder.
 3 Add or include this layout in your destination layout:
 ```xml
